@@ -14,4 +14,4 @@
 小游戏：吃掉eiei
 
 
-
+https://kanonf.github.io/eichi/
